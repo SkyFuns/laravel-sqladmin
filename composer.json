@@ -1,0 +1,18 @@
+{
+    "name": "upstriving/curd",
+    "description": "assemble sql statements quickly",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "upeng",
+            "email": "825415473@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Upstriving\\Curd\\": "src/"
+        }
+    }
+}
